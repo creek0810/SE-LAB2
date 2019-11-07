@@ -8,6 +8,6 @@ deploy:
   provider: heroku
   api_key:
     secure: $HEROKU_API_KEY
-  app: test-my-travisci-project
+  app: se-lab
   on:
     repo: creek0810/SE-LAB2
